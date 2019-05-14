@@ -1,0 +1,10 @@
+type: google.api.Service
+config_version: 3
+
+# Name of the service configuration.
+name: greetgrpc.endpoints.salespath.cloud.goog
+
+# API title to appear in the user interface (Google Cloud Console).
+title: Greet gRPC API
+apis:
+- name: greet.GreetService
